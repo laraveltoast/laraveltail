@@ -1,0 +1,12 @@
+{
+    "name": "laraveltoast/laraveltail",
+    "description": "Artisan tail command in Laravel 5.3",
+    "authors": [
+        {
+            "name": "Suraj Mishra",
+            "email": "suraj.mishra@elitecore.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
